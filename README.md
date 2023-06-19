@@ -1,2 +1,2 @@
-# Lab1  pracs de html con ccs y  javascript, esto es lo mas basico de html.
-aplicacion de html en laboratorio diseño web, para crear paginas web.
+Prácticas de HTML, CSS y JavaScript
+Esto es lo más básico de HTML. Aplicacíó de HTML en Laboratorio Diseño Web para crear páginas web.
